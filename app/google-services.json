@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910418708734",
+    "project_id": "rentalcarpushnotification",
+    "storage_bucket": "rentalcarpushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910418708734:android:9e8deed4bcf46a17befdaf",
+        "android_client_info": {
+          "package_name": "com.aks.rentalcar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyLTs323wc7ZoZx9ccyv9asdQ-S0trldM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

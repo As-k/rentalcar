@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rental Car</string>
+
+    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+</resources>
